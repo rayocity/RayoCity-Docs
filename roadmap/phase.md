@@ -5,5 +5,5 @@
 * Game Level Design
 * RCTY Token Launch
 * Presale and Marketing
-* Token Listing across CoinMarketcap, CoinGecko
+* Token Listing
 
