@@ -14,11 +14,11 @@
 
 | Allocation Type        | Percentage Allocation | Number of Tokens |
 | ---------------------- | --------------------- | ---------------- |
-| Game Rewards           | 50%                   | 500,000,000      |
-| Seed Round/ Incubation | 10%                   | 100,000,000      |
-| Private Sale           | 10%                   | 100,000,000      |
-| Marketing              | 10%                   | 100,000,000      |
-| Team                   | 15%                   | 150,000,000      |
+| Game Rewards           | 50%                   | 5,00,000,000     |
+| Seed Round/ Incubation | 10%                   | 1,00,000,000     |
+| Private Sale           | 10%                   | 1,00,000,000     |
+| Marketing              | 10%                   | 1,00,000,000     |
+| Team                   | 15%                   | 1,50,000,000     |
 | Reserved               | 5%                    | 50,000,000       |
 
 ****
