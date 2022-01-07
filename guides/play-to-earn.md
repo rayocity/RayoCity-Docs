@@ -1,6 +1,6 @@
 # 🎮 Play-To-Earn
 
-Play-to-earn rewards have 50% of the entire RCTY token supply. The ultimate aim of this P2E will allow users to earn more incentives and also attract a wide range of users to the RayoCity Universe.
+Play-To-Earn rewards have 50% of the entire RCTY token supply. The ultimate aim of this reward ecosystem will allow users to earn more incentives and also attract a wide range of users to the RayoCity Universe.
 
 The incentives will be offered as RCTY tokens within our ecosystem.&#x20;
 
