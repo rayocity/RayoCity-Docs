@@ -6,10 +6,6 @@
 
 **Token Symbol: RCTY**&#x20;
 
-**Token Type: ERC20**
-
-**Blockchain: Polygon (MATIC) Chain**
-
 ### **Token Distribution**
 
 | Allocation Type        | Percentage Allocation | Number of Tokens |
