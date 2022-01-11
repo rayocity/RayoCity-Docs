@@ -5,7 +5,7 @@
 ## Introduction
 
 * [💎 What is RayoCity?](introduction/what-is-rayocity.md)
-* [💵 In-Game Token](introduction/in-game-token.md)
+* [💵 In-Game Currency](introduction/in-game-currency.md)
 * [📉 Tokenomics](introduction/tokenomics.md)
 
 ## Guides
