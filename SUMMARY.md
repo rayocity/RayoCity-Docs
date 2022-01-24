@@ -10,7 +10,7 @@
 
 ## Guides
 
-* [🏙 Universe of RayoCity](guides/universe-of-rayocity.md)
+* [🏙 Universe of RayoCity - Metaverse](guides/universe-of-rayocity-metaverse.md)
 * [🛍 NFT Ecosystem](guides/nft-ecosystem.md)
 * [🎮 Play-To-Earn](guides/play-to-earn.md)
 * [🧑🤝🧑 Community](guides/community.md)
